@@ -19,9 +19,16 @@ const [selectedCourse, setSelectedCourse] = useState([]);
     // console.log(course);
 
 const handleSelectCourse = (courses) => {
-    setSelectedCourse([...selectedCourse, courses]);
-}
-console.log(selectedCourse);
+    const isExist = selectedCourse.find((item) => item.id == courses.id);
+    if(isExist){
+       return alert("You Have Already Selected The Course")
+    }
+    else{ 
+        setSelectedCourse([...selectedCourse, courses]);
+    }
+    
+};
+// console.log(selectedCourse);
 
 
     return (
@@ -46,7 +53,7 @@ console.log(selectedCourse);
 </div>
 
 <div className='cart'>
-    <h1>This is cart</h1>
+   <Cart selectedCourse={selectedCourse} ></Cart>
 
 </div>
 </div>
