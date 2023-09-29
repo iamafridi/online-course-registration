@@ -1,8 +1,8 @@
 
 
 .card{
-    width: 250px;
-height: 350px;
+    width: 270px;
+height: 370px;
 border: 1px solid gray;
 }
 .photo{
@@ -28,6 +28,7 @@ grid-template-columns: repeat(3,1fr); */
 display: flex;
 flex-wrap: wrap;
 gap: 20px;
+
 
 /* border: 2px solid tomato; */
 }
