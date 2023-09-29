@@ -2,10 +2,12 @@
 
 .card{
     width: 270px;
-height: 370px;
+height: 350px;
 border: 1px solid gray;
+border-radius: 8px;
 }
 .photo{
+    margin-top: 10px;
     width: 150px;
     border-radius: 10px;
 
@@ -14,21 +16,48 @@ border: 1px solid gray;
     display: flex;
     justify-content: space-evenly;
 }
-.card-btn{
-    background-color: aquamarine;
+.container{
+    justify-content: space-between;
+    gap: 10px;
+width: 1440px;
+/* height: 1459px; */
 }
 .home-container{
     display: flex;
+    justify-content: space-around;
+    gap: 50px;
+    /* align-items: center; */
+    justify-items: center;
+
 }
 .card-container{
+    display: grid;
+grid-template-columns: repeat(3,1fr);
+gap: 20px;
     width: 600px;
 /* display: grid;
 grid-template-columns: repeat(3,1fr); */
 /* flex-wrap: wrap; */
-display: flex;
-flex-wrap: wrap;
-gap: 20px;
+
 
 
 /* border: 2px solid tomato; */
+}
+
+.card-title{
+    color: #1C1B1B;=
+font-size: 18px;
+font-weight: 600;
+}
+
+.card-description{
+    color: rgba(28, 27, 27, 0.60);
+font-size: 14px;
+font-weight: 400;
+line-height: 24px; /* 171.429% */
+}
+.course-title{
+    color: #1C1B1B;
+font-size: 32px;
+font-weight: 700;
 }

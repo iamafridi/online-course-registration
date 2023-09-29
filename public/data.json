@@ -4,72 +4,72 @@
       "cover_image": "https://i.ibb.co/RvWLkDf/Rectangle-2.png",
       "title": "Web Development Fundamentals",
       "description": "Learn the basics of web development, including HTML, CSS, and JavaScript.",
-      "price": 49.99,
-      "credit_hour": 30
+      "price": 4.99,
+      "credit_hour": 3
     },
     {
       "id":2, 
       "cover_image": "https://i.ibb.co/5BbvFv9/Rectangle-2-1.png",
       "title": "Digital Marketing Mastery",
       "description": "Master digital marketing strategies, SEO, and social media marketing.",
-      "price": 79.99,
-      "credit_hour": 40
+      "price": 9.99,
+      "credit_hour": 4
     },
     {
       "id":3, 
       "cover_image": "https://i.ibb.co/d6C8mHZ/Rectangle-2-2.png",
       "title": "Data Science for Beginners",
       "description": "Get started with data science, data analysis, and data visualization.",
-      "price": 59.99,
-      "credit_hour": 35
+      "price": 5.99,
+      "credit_hour": 3.5
     },
     {
       "id":4, 
       "cover_image": "https://i.ibb.co/9qbqpmt/Rectangle-2-3.png",
       "title": "Graphic Design Essentials",
       "description": "Learn the fundamentals of graphic design, including Adobe Creative Suite.",
-      "price": 69.99,
-      "credit_hour": 45
+      "price": 6.99,
+      "credit_hour": 4.5
     },
     {
       "id":5, 
       "cover_image": "https://i.ibb.co/K6L6yV0/Rectangle-2-4.png",
       "title": "Mobile App Development",
       "description": "Build mobile apps for iOS and Android using popular frameworks.",
-      "price": 89.99,
-      "credit_hour": 50
+      "price": 8.9,
+      "credit_hour": 5
     },
     {
       "id":6, 
       "cover_image": " https://i.ibb.co/3hQfkCB/Rectangle-2-5.png",
       "title": "Machine Learning Fundamentals",
       "description": "Explore the basics of machine learning and predictive analytics.",
-      "price": 74.99,
-      "credit_hour": 40
+      "price": 7.99,
+      "credit_hour": 4
     },
     {
       "id":7, 
       "cover_image": " https://i.ibb.co/s1zTzd6/Rectangle-2-6.png",
       "title": "Entrepreneurship 101",
       "description": "Start and grow your own business with expert advice and strategies.",
-      "price": 59.99,
-      "credit_hour": 35
+      "price": 5.99,
+      "credit_hour": 3.5
     },
     {
       "id":8, 
       "cover_image": "https://i.ibb.co/PNmLrrV/Rectangle-3.png",
       "title": "Photography Masterclass",
       "description": "Capture stunning photos and edit them like a pro with this comprehensive course.",
-      "price": 64.99,
-      "credit_hour": 40
+      "price": 6.99,
+      "credit_hour": 4
     },
     {
       "id":9, 
       "cover_image": "https://i.ibb.co/QdFKR78/Rectangle-3-1.png",
       "title": "Financial Planning for Beginners",
       "description": "Take control of your finances and plan for a secure future.",
-      "price": 49.99,
-      "credit_hour": 30
+      "price": 4.99,
+      "credit_hour": 3
     }
   ]
   

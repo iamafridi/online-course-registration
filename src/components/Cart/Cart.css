@@ -1,0 +1,41 @@
+.remaining {
+    color:#2F80ED ;
+    font-size: 18px;
+    line-height: 30px;
+  
+    
+}
+.course-Name{
+    font-size: 20px;
+    font-weight: 700;
+}
+.total-hour{
+    color: rgba(28, 27, 27, 0.80);
+font-size: 20px;
+font-weight: 500;
+}
+
+.olclass{
+    color: rgba(28, 27, 27, 0.60);=
+font-size: 16px;=
+font-weight: 400;
+line-height: 30px; /* 187.5% */
+}
+
+.container-div{
+    width: 312px;
+height: 400px;
+border-radius: 12px;
+background: #FFF;
+text-align: start;
+padding: 10px;
+margin: 10px;
+border: 2px solid darkblue;
+margin-top: -1px;
+}
+.total-selected-course{
+    color: #2F80ED;
+font-size: 18px;
+font-weight: 700;
+line-height: 30px; /* 166.667% */
+}
