@@ -2,12 +2,12 @@
 
 .card{
     width: 250px;
-height: 300px;
+height: 350px;
 border: 1px solid gray;
 }
 .photo{
-    width: 80px;
-    border-radius: 20px;
+    width: 150px;
+    border-radius: 10px;
 
 }
 .info{
@@ -16,4 +16,18 @@ border: 1px solid gray;
 }
 .card-btn{
     background-color: aquamarine;
+}
+.home-container{
+    display: flex;
+}
+.card-container{
+    width: 600px;
+/* display: grid;
+grid-template-columns: repeat(3,1fr); */
+/* flex-wrap: wrap; */
+display: flex;
+flex-wrap: wrap;
+gap: 20px;
+
+/* border: 2px solid tomato; */
 }
